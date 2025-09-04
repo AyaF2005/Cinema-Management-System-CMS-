@@ -131,6 +131,7 @@ A **web-based Cinema Management System** built with **Flask, Python, and MySQL**
 | `/food_item`                         | GET, POST | Manage food items (add/update/delete/search) |
 | `/report`                            | GET       | View system reports                          |
 
+---
 ##👥 Contributors
 AyaF200 – GitHub Profile
 itsAsmaa – GitHub Profile
