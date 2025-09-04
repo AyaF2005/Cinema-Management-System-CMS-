@@ -118,7 +118,7 @@ A **web-based Cinema Management System** built with **Flask, Python, and MySQL**
 ## Installation & Setup
 
 ### Prerequisites
-- Python 3.7+  
+- Python  
 - MySQL  
 
 ### Steps
