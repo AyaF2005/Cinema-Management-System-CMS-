@@ -132,6 +132,8 @@ A **web-based Cinema Management System** built with **Flask, Python, and MySQL**
 | `/report`                            | GET       | View system reports                          |
 
 ---
-##👥 Contributors
+
+
+## 👥 Contributors
 AyaF200 – GitHub Profile
 itsAsmaa – GitHub Profile
