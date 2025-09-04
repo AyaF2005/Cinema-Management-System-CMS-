@@ -135,5 +135,6 @@ A **web-based Cinema Management System** built with **Flask, Python, and MySQL**
 
 
 ## 👥 Contributors
-AyaF200 – GitHub Profile
-itsAsmaa – GitHub Profile
+- [Aya Fares](https://github.com/AyaF2005/Cinema-Management-System-CMS-/edit/main/README.md)
+- [Asmaa Fares]([https://github.com/partner-username](https://github.com/itsAsmaa))
+
