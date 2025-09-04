@@ -114,15 +114,23 @@ A **web-based Cinema Management System** built with **Flask, Python, and MySQL**
 | Seat_Column |  |
 
 ---
+## Application Routes
+| Route                                | Method    | Description                                  |
+| ------------------------------------ | --------- | -------------------------------------------- |
+| `/`                                  | GET       | Home page                                    |
+| `/next_operation`                    | GET       | Page showing available movies                |
+| `/add_customer`                      | GET, POST | Add a new customer                           |
+| `/list_customers`                    | GET       | List all customers                           |
+| `/delete_customer/<int:customer_id>` | GET, POST | Delete a specific customer                   |
+| `/update_customer/<int:customer_id>` | GET, POST | Update customer details                      |
+| `/search_customer`                   | GET, POST | Search for a customer                        |
+| `/Tlog`                              | GET, POST | Ticket vendor login page                     |
+| `/Tmanager`                          | GET, POST | Ticket manager dashboard                     |
+| `/movie/<int:movie_id>`              | GET       | View details of a specific movie             |
+| `/movie-schedule/<int:movie_id>`     | GET       | View movie schedule                          |
+| `/food_item`                         | GET, POST | Manage food items (add/update/delete/search) |
+| `/report`                            | GET       | View system reports                          |
 
-## Installation & Setup
-
-### Prerequisites
-- Python  
-- MySQL  
-
-### Steps
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/cinema-management-system.git
-cd cinema-management-system
+##👥 Contributors
+AyaF200 – GitHub Profile
+itsAsmaa – GitHub Profile
